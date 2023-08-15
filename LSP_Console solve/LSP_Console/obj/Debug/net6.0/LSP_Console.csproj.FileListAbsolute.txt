@@ -1,0 +1,15 @@
+C:\Users\jaber\Desktop\LSP_Console solve\LSP_Console\bin\Debug\net6.0\LSP_Console.exe
+C:\Users\jaber\Desktop\LSP_Console solve\LSP_Console\bin\Debug\net6.0\LSP_Console.deps.json
+C:\Users\jaber\Desktop\LSP_Console solve\LSP_Console\bin\Debug\net6.0\LSP_Console.runtimeconfig.json
+C:\Users\jaber\Desktop\LSP_Console solve\LSP_Console\bin\Debug\net6.0\LSP_Console.dll
+C:\Users\jaber\Desktop\LSP_Console solve\LSP_Console\bin\Debug\net6.0\LSP_Console.pdb
+C:\Users\jaber\Desktop\LSP_Console solve\LSP_Console\obj\Debug\net6.0\LSP_Console.csproj.AssemblyReference.cache
+C:\Users\jaber\Desktop\LSP_Console solve\LSP_Console\obj\Debug\net6.0\LSP_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaber\Desktop\LSP_Console solve\LSP_Console\obj\Debug\net6.0\LSP_Console.AssemblyInfoInputs.cache
+C:\Users\jaber\Desktop\LSP_Console solve\LSP_Console\obj\Debug\net6.0\LSP_Console.AssemblyInfo.cs
+C:\Users\jaber\Desktop\LSP_Console solve\LSP_Console\obj\Debug\net6.0\LSP_Console.csproj.CoreCompileInputs.cache
+C:\Users\jaber\Desktop\LSP_Console solve\LSP_Console\obj\Debug\net6.0\LSP_Console.dll
+C:\Users\jaber\Desktop\LSP_Console solve\LSP_Console\obj\Debug\net6.0\refint\LSP_Console.dll
+C:\Users\jaber\Desktop\LSP_Console solve\LSP_Console\obj\Debug\net6.0\LSP_Console.pdb
+C:\Users\jaber\Desktop\LSP_Console solve\LSP_Console\obj\Debug\net6.0\LSP_Console.genruntimeconfig.cache
+C:\Users\jaber\Desktop\LSP_Console solve\LSP_Console\obj\Debug\net6.0\ref\LSP_Console.dll
